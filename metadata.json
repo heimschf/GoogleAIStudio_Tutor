@@ -1,0 +1,6 @@
+{
+  "name": "R Descriptive Statistics Tutor",
+  "description": "An interactive, gamified AI tutor that teaches the basics of descriptive statistics using R, featuring lessons, quizzes, real-time custom datasets, sandboxed code simulation, and smart AI chat assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
